@@ -1,0 +1,50 @@
+.menu-bar{
+    -fx-background-color: #FA3A2F;
+}
+
+.menu-bar-item{
+    -fx-background-color: #FA3A2F;
+}
+
+.menu-bar-item:hover{
+    -fx-background-color: #FABD2F;
+}
+
+.bg-naranja-principal{
+    -fx-background-color: #FA812F;
+}
+.bg-naranja-rojo{
+    -fx-background-color: #FA5D2F;
+    -fx-background-radius:20;
+    -fx-border-style:solid;
+    -fx-border-radius:20;
+    -fx-border-color: white;
+}
+.bg-naranja-claro{
+    -fx-background-color: #FAA42F;
+}
+.bg-chile-morron{
+    -fx-background-color: #FA3A2F;
+    -fx-background-radius:20;
+    -fx-border-style:solid;
+    -fx-border-radius:20;
+    -fx-border-color: white;
+}
+.bg-mostaza{
+    -fx-background-color: #FABD2F;
+}
+.bg-off-white{
+    -fx-background-color: #FEF3E2;
+}
+
+.text-white{
+    -fx-text-fill:white;
+    -fx-font-size:14;
+}
+.tittle-black{
+    -fx-text-fill:black;
+    -fx-font-size:50;
+}
+.bg-naranja-degradado{
+-fx-background-color: linear-gradient(to bottom,#FEF3E2,#FA3A2F);
+}
